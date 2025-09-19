@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shivam-CV/static/css/main.448e4490.css",
+    "main.js": "/Shivam-CV/static/js/main.6cc83ae7.js",
+    "static/js/453.448d870a.chunk.js": "/Shivam-CV/static/js/453.448d870a.chunk.js",
+    "static/media/Shivam_Gupta_CV.pdf": "/Shivam-CV/static/media/Shivam_Gupta_CV.855d5770aea4a5636039.pdf",
+    "static/media/building.jpg": "/Shivam-CV/static/media/building.fee88fa33dbff6445352.jpg",
+    "static/media/profile.jpeg": "/Shivam-CV/static/media/profile.d9451faf6439965df9d1.jpeg",
+    "static/media/sports.webp": "/Shivam-CV/static/media/sports.3f6d55c9fb8a117889a7.webp",
+    "static/media/fms.jpg": "/Shivam-CV/static/media/fms.6f4cfdde864575b0c6ca.jpg",
+    "static/media/biocollection.webp": "/Shivam-CV/static/media/biocollection.671c68379590bc88b8a0.webp",
+    "static/media/prana.webp": "/Shivam-CV/static/media/prana.850c78538c6ec48dcd04.webp",
+    "index.html": "/Shivam-CV/index.html",
+    "main.448e4490.css.map": "/Shivam-CV/static/css/main.448e4490.css.map",
+    "main.6cc83ae7.js.map": "/Shivam-CV/static/js/main.6cc83ae7.js.map",
+    "453.448d870a.chunk.js.map": "/Shivam-CV/static/js/453.448d870a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448e4490.css",
+    "static/js/main.6cc83ae7.js"
+  ]
+}
