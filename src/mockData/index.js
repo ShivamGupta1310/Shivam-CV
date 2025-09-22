@@ -19,7 +19,7 @@ export const main = {
   email: "shivam.software.eng@gmail.com",
   phone: "+91 8320681757",
   profilepic: profile,
-  github: "https://github.com/ShivamGupta1310/Shivam-Gupta-CV",
+  github: "https://github.com/ShivamGupta1310/Shivam-CV",
   project: "https://github.com/ShivamGupta1310/Shivam-Gupta-CV",
   address: {
     street: "Chandkheda",
@@ -35,7 +35,7 @@ export const main = {
     },
     {
       name: "Github",
-      url: "https://github.com/nordicgiant2/react-nice-resume",
+      url: "https://github.com/ShivamGupta1310/Shivam-CV",
       className: "fa fa-github",
     },
   ],
