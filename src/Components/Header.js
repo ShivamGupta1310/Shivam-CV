@@ -48,7 +48,7 @@ const Header = ({ data }) => {
           Hide navigation
         </a>
 
-        <ul id="nav" className="nav" style={{ justifyContent: "center" }}>
+        <ul id="nav" className="nav" style={{ justifyContent: "center", backgroundColor: "#000" }}>
           <li className="current">
             <a className="smoothscroll" href="#home">
               Home
