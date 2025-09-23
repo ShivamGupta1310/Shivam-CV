@@ -173,7 +173,7 @@ export const main = {
         logo: sports,
       },
       {
-        title: "Prana AI App",
+        title: "Syncare App",
         frontend: "React Native",
         backend: "Ruby",
         url: "http://www.timbakerdev.com/originalthaifood.github.io",
@@ -202,7 +202,7 @@ export const main = {
         logo: biocollection,
       },
       {
-        title: "Builder Internal Block",
+        title: "Custom Internal Block",
         frontend: "React Native & React JS",
         backend: "Ruby",
         url: "http://www.timbakerdev.com",
